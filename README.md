@@ -1,27 +1,22 @@
-# ProjetoBuzzfeed
+# clone-buzzfeed-angular
+<h2>Requisitos</h2>
+<ul>
+  <li>Node.js</li>
+  <li>Angular 14.1.2</li>
+</ul>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<h2>Uso</h2>
+<p>Instale o Angular 14.1.2 executando esse comando no terminal:</p>
+<ul>
+  <li>npm install -g @angular/cli@14.1.2</li>
+</ul>
+<p>Depois, instale as dependências utilizando esse comando:</p>
+<ul>
+  <li>npm install</li>
+</ul>
+<p>Por fim, utilize esse comando para criar o localhost da página:</p>
+<ul>
+  <li>ng serve</li>
+</ul>
+<p>Agora é só copiar e colar o localhost no navegador ou clicar sobre o link segurando a tecla Ctrl para visualizar a página!</p>
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
